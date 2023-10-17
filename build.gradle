@@ -24,11 +24,10 @@ dependencies {
 
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
-//configuração para subir a aplicação na nuvem.
-//Declarar qual classe main.
+
 tasks.jar{
-	manifest{
-		attributes["Main-class"] = "Final.Project.Application"
+	manifest {
+		attributes["Main-class"] = "src/main/java/Final/Project/Application.java"
 	}
 }
 
