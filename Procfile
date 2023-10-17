@@ -1,1 +1,1 @@
-web: java -jar "%~dp0\myjar.jar"
+web: java -jar "%~dp0\Final-Project-0.0.1-SNAPSHOT.jar"
