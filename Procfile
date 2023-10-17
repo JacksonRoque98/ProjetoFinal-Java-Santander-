@@ -1,1 +1,1 @@
-web: java -jar C:\Users\Jackson\Documents\DIO-FINAL-PROJECT\Final-Project\build\libs\Final-Project-0.0.1-SNAPSHOT.jar
+web: java -jar "%~dp0\myjar.jar"
