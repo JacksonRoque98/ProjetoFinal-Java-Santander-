@@ -1,1 +1,1 @@
-web: java -jar build/libs/Final-Project-0.0.1-SNAPSHOT.jar
+web: java -jar Final-Project/build/libs/Final-Project-0.0.1-SNAPSHOT.jar
